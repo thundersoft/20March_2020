@@ -1,0 +1,69 @@
+*** Settings ***
+Resource    ../Keywords/appiumTSKeywords.txt
+Resource    ../ElementLocators/settingsElemLoc.txt
+Resource    ../Resources/settingsTestData.txt
+
+#Suite Setup    Run keywords     Start Appium Server     Create a Directory for Videos     Create a Directory for Logs
+#Suite Teardown  Run keyword     Stop Appium Server
+#Test Setup     Run keywords     Clear Log Buffer    Start Video recording     Launch Settings Application
+#Test Teardown  Run keywords     Capture Logs    Stop Video recording     Close the Application
+#Test Timeout  60s
+
+
+*** Test Cases ***
+#Launch Settings Application
+#    Launch Mobile Application   ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+
+#Turn on Wi-Fi
+#    Launch Mobile Application  ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+#    Click an Element using Text     ${networkText_Loc}
+#    Turn on Toogle Button    ${wifiEnable_Loc}
+#
+#Turn off Wi-Fi
+#    Launch Mobile Application  ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+#    Click an Element using Index    ${title_Loc}     ${networkIndex}
+#    Clear Log Buffer
+#    Turn off Toogle Button    ${wifiEnable_Loc}
+#    Validate Logs    ${TEST NAME}    ${wifi_off_Log}    ${wifioffStatus}
+
+#Scroll Up and Down
+#    Launch Mobile Application  ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+#    Scroll Up to an Element     ${title_Loc}      ${systemIndex}
+#    Scroll Down to an Element     ${title_Loc}      ${systemIndex}
+
+#Scroll and Click on Text
+#    Launch Mobile Application   ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+#    Scroll and Click an Element using Text  ${system_Loc}   ${title_Loc}
+#    Sleep   5s
+
+#Scroll and Click on Text
+#    Launch Mobile Application   ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${conappPackage}   ${conappActivity}   ${automationName}
+#    Scroll and Click an Element using Text  ${contact_Loc}   ${contact_title_Loc}
+#    Sleep   5s
+
+#Verify Menu List
+#    Launch Mobile Application   ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+#    Click an Element using Text  ${battery_Loc}
+#    Verify Menu List Items  ${title_Loc}    ${expValues}    ${actualList}
+
+#Application Uninstall
+#    Launch Mobile Application   ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPackage}   ${appActivity}   ${automationName}
+#    Uninstall an Application  ${mlPackageName}
+#
+#Application Install
+#    Install and Launch Mobile Application  ${appiumServer}   ${platformName}   ${platformVersion}   ${deviceName}   ${appPath}
+
+Launch Amazon App and Add to Cart
+    addItemToCart
+
+
+
+
+
+
+
+
+
+
+
+

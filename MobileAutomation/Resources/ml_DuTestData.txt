@@ -1,0 +1,6 @@
+*** Variables ***
+${familyText}       FAMILIE
+${fruitsText}       FRUITS
+${fatherText}       VADER
+${motherText}       MOEDER
+${lang}             Dutch

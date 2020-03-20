@@ -1,0 +1,9 @@
+*** Variables ***
+${mlPackageName}                com.example.ml
+${mlActivityName}               com.example.ml.MainActivity
+${appPath}                      C:\\Users\\ravichand\\Desktop\\own apk's\\ML_com.example.ml.apk
+${familyText}                   FAMILY
+${fruitsText}                   FRUITS
+${fatherText}                   FATHER
+${motherText}                   MOTHER
+${lang}                         English

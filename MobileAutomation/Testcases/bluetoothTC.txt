@@ -1,0 +1,13 @@
+*** Settings ***
+Resource  ../Keywords/settingsKeywords.txt
+
+Suite Setup    Run keywords     Start Appium Server     Create a Directory for Videos     Create a Directory for Logs
+Suite Teardown  Run keyword     Stop Appium Server
+Test Setup     Run keywords     Clear Log Buffer    Start Video recording    Launch Settings Application
+Test Teardown  Run keywords     Capture Logs    Stop Video recording     Close the Application
+
+*** Test Cases ***
+Bluetooth_Pairing
+    Turn on Bluetooth
+    Connect BT Device
+    Disconnect BT Device

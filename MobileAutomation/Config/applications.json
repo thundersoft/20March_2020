@@ -1,0 +1,66 @@
+{
+   "iterations": 2,
+   "applications" : [
+     {
+       "active": false,
+       "appName": "Contacts",
+       "packageName": "com.android.contacts",
+       "activityName": "com.android.contacts.activities.PeopleActivity"
+     },
+     {
+       "active": true,
+       "appName": "Settings",
+        "packageName": "com.android.settings",
+       "activityName": "com.android.settings.Settings"
+
+     },
+     {
+       "active": true,
+       "appName": "Gmail",
+       "packageName": "com.google.android.gm",
+       "activityName": "com.google.android.gm.ConversationListActivityGmail"
+     },
+     {
+       "active": false,
+       "appName": "Camera",
+        "packageName": "org.codeaurora.snapcam",
+       "activityName": "com.android.camera.CameraLauncher"
+     },
+     {
+       "active": false,
+       "appName": "Play Store",
+        "packageName": "com.android.vending",
+       "activityName": "com.android.vending.AssetBrowserActivity"
+     },
+     {
+       "active": false,
+       "appName": "ML",
+        "packageName": "com.example.ml",
+       "activityName": "com.example.ml.MainActivity"
+     },
+     {
+       "active": false,
+       "appName": "Gallery",
+        "packageName": "org.codeaurora.gallery",
+       "activityName": "com.android.gallery3d.app.GalleryActivity"
+     },
+     {
+       "active": false,
+       "appName": "Phone",
+        "packageName": "com.android.dialer",
+       "activityName": "com.android.dialer.app.DialtactsActivity"
+     },
+     {
+       "active": false,
+       "appName": "Calculator",
+        "packageName": "com.android.calculator2",
+       "activityName": "com.android.calculator2.Calculator"
+     },
+     {
+       "active": false,
+       "appName": "YouTube",
+        "packageName": "com.google.android.youtube",
+       "activityName": "com.google.android.apps.youtube.app.WatchWhileActivity"
+     }
+   ]
+}

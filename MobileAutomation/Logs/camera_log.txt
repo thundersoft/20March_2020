@@ -1,0 +1,459 @@
+--------- beginning of main
+01-09 13:21:30.767   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 478
+01-09 13:21:30.770   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:30.799   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 479
+01-09 13:21:30.833   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 480
+01-09 13:21:30.835   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:30.866   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 481
+01-09 13:21:30.899   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 482
+01-09 13:21:30.902   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:30.933   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 483
+01-09 13:21:30.967   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 484
+01-09 13:21:30.968   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.003   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 485
+01-09 13:21:31.034   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 486
+01-09 13:21:31.038   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.067   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 487
+01-09 13:21:31.102   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.105   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 488
+01-09 13:21:31.121   749   760 I mmid    : select timeout: wait for receiving msg
+01-09 13:21:31.134   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 489
+01-09 13:21:31.166   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 490
+01-09 13:21:31.171   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.199   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 491
+01-09 13:21:31.232   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 492
+01-09 13:21:31.237   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.266   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 493
+01-09 13:21:31.299   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 494
+01-09 13:21:31.303   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.336   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 495
+01-09 13:21:31.366   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 496
+01-09 13:21:31.371   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.401   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 497
+01-09 13:21:31.433   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 498
+01-09 13:21:31.440   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.466   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 499
+01-09 13:21:31.501   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 500
+01-09 13:21:31.509   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.532   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 501
+01-09 13:21:31.566   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 502
+01-09 13:21:31.568   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.599   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 503
+01-09 13:21:31.634   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 504
+01-09 13:21:31.642   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.666   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 505
+01-09 13:21:31.699   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 506
+01-09 13:21:31.706   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.732   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 507
+01-09 13:21:31.744   710  2334 I LocSvc_ApiV02: <--- globalEventCb line 115 QMI_LOC_EVENT_POSITION_REPORT_IND_V02
+01-09 13:21:31.766   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 508
+01-09 13:21:31.768   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.799   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 509
+01-09 13:21:31.836   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 510
+01-09 13:21:31.840   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.868   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 511
+01-09 13:21:31.899   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 512
+01-09 13:21:31.904   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.933   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 513
+01-09 13:21:31.965   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 514
+01-09 13:21:31.967   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:31.999   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 515
+01-09 13:21:32.033   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 516
+01-09 13:21:32.036   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.065   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 517
+01-09 13:21:32.100   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 518
+01-09 13:21:32.105   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.136   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 519
+01-09 13:21:32.165   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 520
+01-09 13:21:32.166   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.199   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 521
+01-09 13:21:32.231   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 522
+01-09 13:21:32.237   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.265   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 523
+01-09 13:21:32.302   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 524
+01-09 13:21:32.312   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.331   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 525
+01-09 13:21:32.368   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 526
+01-09 13:21:32.370   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.417   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 527
+01-09 13:21:32.433   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.436   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 528
+01-09 13:21:32.469   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 529
+01-09 13:21:32.508   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.513   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 530
+01-09 13:21:32.535   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 531
+01-09 13:21:32.564   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 532
+01-09 13:21:32.569   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.607   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 533
+01-09 13:21:32.631   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 534
+01-09 13:21:32.632   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.668   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 535
+01-09 13:21:32.700   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 536
+01-09 13:21:32.703   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.731   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 537
+01-09 13:21:32.741   710  2334 I LocSvc_ApiV02: <--- globalEventCb line 115 QMI_LOC_EVENT_POSITION_REPORT_IND_V02
+01-09 13:21:32.767   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.769   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 538
+01-09 13:21:32.799   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 539
+01-09 13:21:32.833   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 540
+01-09 13:21:32.840   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.867   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 541
+01-09 13:21:32.898   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 542
+01-09 13:21:32.899   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:32.931   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 543
+01-09 13:21:32.964   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 544
+01-09 13:21:32.967   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.000   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 545
+01-09 13:21:33.030   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 546
+01-09 13:21:33.035   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.065   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 547
+01-09 13:21:33.098   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 548
+01-09 13:21:33.099   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.131   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 549
+01-09 13:21:33.164   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 550
+01-09 13:21:33.167   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.197   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 551
+01-09 13:21:33.231   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 552
+01-09 13:21:33.232   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.265   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 553
+01-09 13:21:33.296   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 554
+01-09 13:21:33.301   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.331   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 555
+01-09 13:21:33.364   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 556
+01-09 13:21:33.376   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.400   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 557
+01-09 13:21:33.429   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 558
+01-09 13:21:33.435   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.463   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 559
+01-09 13:21:33.496   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 560
+01-09 13:21:33.499   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.532   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 561
+01-09 13:21:33.564   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 562
+01-09 13:21:33.570   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.609   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 563
+01-09 13:21:33.630   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 564
+01-09 13:21:33.635   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.664   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 565
+01-09 13:21:33.699   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 566
+01-09 13:21:33.700   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.730   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 567
+01-09 13:21:33.741   710  2334 I LocSvc_ApiV02: <--- globalEventCb line 115 QMI_LOC_EVENT_POSITION_REPORT_IND_V02
+01-09 13:21:33.765   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.767   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 568
+01-09 13:21:33.797   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 569
+01-09 13:21:33.828  6077  6095 D UIAutomatorStub: URI: /jsonrpc/0, Method: POST, Header: {content-length=220, remote-addr=127.0.0.1, http-client-ip=127.0.0.1, host=localhost:9009, content-type=application/json, accept-encoding=identity}, params, {NanoHttpd.QUERY_STRING=null}, files: {postData={"jsonrpc": "2.0", "method": "exist", "id": "84d6da08def7c8e43f6a794948e4500e", "params": [{"mask": 2097152, "childOrSibling": [], "childOrSiblingSelector": [], "resourceId": "org.codeaurora.snapcam:id/shutter_button"}]}}
+01-09 13:21:33.830   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 570
+01-09 13:21:33.831   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.867   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 571
+01-09 13:21:33.893  6077  6095 D UIAutomatorStub: URI: /jsonrpc/0, Method: POST, Header: {content-length=261, remote-addr=127.0.0.1, http-client-ip=127.0.0.1, host=localhost:9009, content-type=application/json, accept-encoding=identity}, params, {NanoHttpd.QUERY_STRING=null}, files: {postData={"jsonrpc": "2.0", "method": "clickAndWaitForNewWindow", "id": "86c1bcbc8b3d4cfceded5a0bcb22823d", "params": [{"mask": 18874368, "childOrSibling": [], "childOrSiblingSelector": [], "resourceId": "org.codeaurora.snapcam:id/shutter_button", "instance": 0}, 3000]}}
+01-09 13:21:33.896   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 572
+01-09 13:21:33.900   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.924  6077  6095 I QueryController: Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=org.codeaurora.snapcam:id/shutter_button] <<==>> [android.view.accessibility.AccessibilityNodeInfo@ec68; boundsInParent: Rect(0, 0 - 204, 204); boundsInScreen: Rect(438, 1566 - 642, 1770); packageName: org.codeaurora.snapcam; className: android.widget.ImageView; text: null; error: null; maxTextLength: -1; contentDescription: Shutter; viewIdResName: org.codeaurora.snapcam:id/shutter_button; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: true; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; actions: [AccessibilityAction: ACTION_FOCUS - null, AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_CLICK - null, AccessibilityAction: ACTION_LONG_CLICK - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_NEXT_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY - null, AccessibilityAction: ACTION_SET_SELECTION - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]]
+01-09 13:21:33.929  6077  6095 D InteractionController: clickAndWaitForNewWindow(540, 1668)
+01-09 13:21:33.930   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 573
+01-09 13:21:33.964   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 574
+01-09 13:21:33.968   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:33.996   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 575
+01-09 13:21:34.034   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 576
+01-09 13:21:34.035   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.053  1113  1506 I AudioPolicyManagerCustom: FLAG None hence request for a primary output
+01-09 13:21:34.055  5800  5800 V CAM_PhotoModule: onShutterButtonClick: mCameraState=1
+01-09 13:21:34.055  5800  5800 D LocationManager: No location received yet.
+01-09 13:21:34.061  1113  1506 I AudioPolicyManagerCustom: FLAG None hence request for a primary output
+01-09 13:21:34.063   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 577
+01-09 13:21:34.067   689  4863 D audio_hw_primary: start_output_stream: enter: stream(0xe6b1f800)usecase(1: low-latency-playback) devices(0x2)
+01-09 13:21:34.067   689  4863 D audio_hw_primary: select_devices for use case (low-latency-playback)
+01-09 13:21:34.067   689  4863 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+01-09 13:21:34.067   689  4863 I msm8916_platform: platform_check_and_set_codec_backend_cfg:becf: afe: bitwidth 16, samplerate 48000 channels 2, backend_idx 0 usecase = 1 device (speaker)
+01-09 13:21:34.068   689  4863 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+01-09 13:21:34.068   689  4863 I msm8916_platform: platform_check_and_set_codec_backend_cfg: becf: new_snd_devices[0] is speaker
+01-09 13:21:34.068   689  4863 I msm8916_platform: platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 current bit width: 16 sample rate: 48000 channels: 2 usecase 1 device (speaker)
+01-09 13:21:34.068   689  4863 D msm8916_platform: platform_check_codec_backend_cfg:becf: afe: playback on codec device not supporting native playback set default Sample Rate(48k)
+01-09 13:21:34.068   689  4863 I msm8916_platform: platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 updated bit width: 16 sample rate: 48000 channels: 2
+01-09 13:21:34.068   689  4863 D audio_hw_primary: check_usecases_codec_backend:becf: force routing 0
+01-09 13:21:34.068   689  4863 E msm8916_platform: platform_check_backends_match: Invalid snd_device = 
+01-09 13:21:34.068   689  4863 D audio_hw_primary: check_usecases_codec_backend:becf: (59) check_usecases curr device: speaker, usecase device: backends match 0
+01-09 13:21:34.068   689  4863 D audio_hw_primary: check_usecases_codec_backend:becf: check_usecases num.of Usecases to switch 0
+01-09 13:21:34.068   689  4863 D hardware_info: hw_info_append_hw_type : device_name = speaker
+01-09 13:21:34.068   689  4863 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+01-09 13:21:34.068   689  4863 D audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+01-09 13:21:34.068   689  4863 I soundtrigger: audio_extn_sound_trigger_update_device_status: device 0x2 of type 0 for Event 1, with Raise=0
+01-09 13:21:34.068   689  4863 D audio_route: Apply path: speaker
+01-09 13:21:34.076   689  4863 D audio_hw_primary: audio_is_true_native_stream_active:napb: (0) (low-latency-playback)id (1) sr 48000 bw (16) device speaker
+01-09 13:21:34.076   689  4863 D soundtrigger: audio_extn_sound_trigger_update_stream_status: uc_id 1 of type 0 for Event 3, with Raise=0
+01-09 13:21:34.076   689  4863 D audio_hw_utils: audio_extn_utils_send_app_type_cfg: usecase->out_snd_device speaker
+01-09 13:21:34.076   689  4863 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+01-09 13:21:34.077   689  4863 I audio_hw_utils: send_app_type_cfg_for_device PLAYBACK app_type 69937, acdb_dev_id 14, sample_rate 48000, snd_device_be_idx 135
+01-09 13:21:34.077   689  4863 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+01-09 13:21:34.077   689  4863 D ACDB-LOADER: ACDB -> send_audio_cal, acdb_id = 14, path = 0, app id = 0x11131, sample rate = 48000
+01-09 13:21:34.077   689  4863 D ACDB-LOADER: ACDB -> send_asm_topology
+01-09 13:21:34.077   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TOPOLOGY_ID
+01-09 13:21:34.077   689  4863 D ACDB-LOADER: ACDB -> send_adm_topology
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> send_audtable
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE_SIZE
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> AUDIO_SET_AUDPROC_CAL
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> send_audvoltable
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_VOL_STEP_TABLE_SIZE
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_STEP_TABLE, vol index 0
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 12
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_SIZE
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> send_audstrmtable
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_V2
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> audstrm_cal->cal_type.cal_data.cal_size = 16
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> send_afe_topology
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_TOPOLOGY_ID
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> GET_AFE_TOPOLOGY_ID for adcd_id 14, Topology Id 1025e
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> send_afe_cal
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE_SIZE
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> AUDIO_SET_AFE_CAL
+01-09 13:21:34.078   689  4863 D ACDB-LOADER: ACDB -> send_hw_delay : acdb_id = 14 path = 0
+01-09 13:21:34.079   689  4863 D ACDB-LOADER: ACDB -> ACDB_AVSYNC_INFO: ACDB_CMD_GET_DEVICE_PROPERTY
+01-09 13:21:34.079   689  4863 D audio_hw_primary: enable_audio_route: apply mixer and update path: low-latency-playback
+01-09 13:21:34.079   689  4863 D audio_route: Apply path: low-latency-playback
+01-09 13:21:34.084   689  4863 D audio_hw_primary: select_devices: done
+01-09 13:21:34.086  5800  5800 V CAM_PhotoModule: onShutterButtonFocus error case mCameraState = 3mCameraDevice = com.android.camera.AndroidCameraManagerImpl$AndroidCameraProxyImpl@67d2fd9mPaused =false
+01-09 13:21:34.093   691  1530 I QCamera : <HAL><INFO> take_picture: 930: [KPI Perf]: E PROFILE_TAKE_PICTURE camera id 1
+01-09 13:21:34.095   713   769 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [2, 0]
+01-09 13:21:34.095   713   769 I chatty  : uid=0(root) vendor.qti.hard identical 1 line
+01-09 13:21:34.095   713   769 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [2, 0]
+01-09 13:21:34.096   713   769 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [2, 1]
+01-09 13:21:34.096   713   769 I chatty  : uid=0(root) vendor.qti.hard identical 1 line
+01-09 13:21:34.096   713   769 E ANDR-PERF-RESOURCEQS: Failed to apply optimization [2, 1]
+01-09 13:21:34.096   713   769 E ANDR-PERF-OPTSHANDLER: Write -1:0 into /sys/module/msm_performance/parameters/max_cpus
+01-09 13:21:34.098   691  5850 I QCamera : <HAL><INFO> checkFeatureConcurrency: 5680: Advance feature enabled 0x0
+01-09 13:21:34.098   691  5850 I QCamera : <HAL><INFO> takePicture: 5207: snap count = 1 zsl = 1 advanced = 0, active camera:1 mMasterCamera:1
+01-09 13:21:34.098   691  5850 I QCamera : <HAL><INFO> takePicture: 5516: X rc = 0
+01-09 13:21:34.100   691  1530 I QCamera : <HAL><INFO> take_picture: 1030: [KPI Perf]: X ret = 0
+01-09 13:21:34.103   691  5891 I QCamera : <HAL><INFO> zsl_channel_cb: 166: [KPI Perf]: superbuf frame_idx 574
+01-09 13:21:34.106   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.107   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 578
+01-09 13:21:34.113   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=800000a
+01-09 13:21:34.114   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=8000018
+01-09 13:21:34.114   691  5855 I mm-camera: <MCT   >< INFO> 633: mct_stream_start_link: Start linking offline stream 0x40005
+01-09 13:21:34.114   691  5855 I mm-camera: <MCT   >< INFO> 697: mct_stream_start_link: iface=0x0, isp=0x0, pproc=0xf13a49a0, imglib=0x0
+01-09 13:21:34.114   691  5855 I mm-camera: <PPROC >< INFO> 449: pproc_port_add_modules_to_stream: in identity 40005 stream 9 int_link = 0xed0fc480
+01-09 13:21:34.114   691  5855 I mm-camera: <PPROC >< INFO> 461: pproc_port_add_modules_to_stream: :LINK linking mods tmod and cpp for identity 40005
+01-09 13:21:34.116   691  5855 I mm-camera: <CPP   >< INFO> 3660: cpp_module_util_update_dim: offset_x 0, offset_y 0, offset 0, meta_len 0,meta_scanline 0, meta_stride 0, plane_len 8146944
+01-09 13:21:34.117   691  5855 I mm-camera: <CPP   >< INFO> 3660: cpp_module_util_update_dim: offset_x 0, offset_y 0, offset 0, meta_len 0,meta_scanline 0, meta_stride 0, plane_len 4073472
+01-09 13:21:34.117   691  5855 I mm-camera: <CPP   >< INFO> 2389: cpp_module_notify_add_stream: :stream 9, width 3264, height 2448, stride 3264,scanline 2496, framelen 12222464
+01-09 13:21:34.117   691  5855 I mm-camera: <CPP   >< INFO> 2546: cpp_module_notify_add_stream: : stream 9, fmt 2, asf_mode 0, sharpness_level 0.000000,asf mask 1, denoise 0, denoise_mask 1, dsdn mask 1,dsdn enable 0, tnr mask 0, tnr enable 0, ds_mask 0, luma dsdn 0
+01-09 13:21:34.117   691  5855 I mm-camera: <MCT   >< INFO> 795: mct_stream_start_link: Linking single module
+01-09 13:21:34.117   691  5855 I mm-camera: <MCT   >< INFO> 803: mct_stream_start_link: single_module=0xf13a49a0
+01-09 13:21:34.117   691  5855 I mm-camera: <MCT   >< INFO> 4206: mct_pipeline_process_set: Linking successful for stream 0x40005 stream type=9
+01-09 13:21:34.117   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=8000004
+01-09 13:21:34.120   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=8000008
+01-09 13:21:34.120   691  5855 I mm-camera: <MCT   >< INFO> 4247: mct_pipeline_process_set:  STREAM-ON on stream 0x40005 stream type=9
+01-09 13:21:34.121   691  5855 I mm-camera: <CPP   >< INFO> 4612: cpp_module_handle_streamon_event: identity=0x40005, stream-on done
+01-09 13:21:34.121   691  5855 I mm-camera: <MCT   >< INFO> 4262: mct_pipeline_process_set:  STREAM-ON success for stream 0x40005, stream type=9
+01-09 13:21:34.122   691  5852 I QCamera : <HAL><INFO> getJpegEncodingConfig: 655: Src Buffer cnt = 1, res = 3264X2448 len = 12222464 rot = 0 src_dim = 3264X2448 dst_dim = 3264X2448
+01-09 13:21:34.122   749   760 I mmid    : select timeout: wait for receiving msg
+01-09 13:21:34.123   691  5852 I QCamera : <HAL><INFO> getJpegEncodingConfig: 753: Src THUMB buf_cnt = 1, res = 3264X2448 len = 12222464 rot = 0 src_dim = 3264X2448, dst_dim = 320X240
+01-09 13:21:34.123   691  5910 I QCamera : <HAL><INFO> doReprocess: 1854: Online reprocessing id = 574 buf Id = 1 meta index = 9 type = 3
+01-09 13:21:34.123   691  5852 I qomx_image_core: OMX_GetHandle:243] get instance pts is 0xe6a6b400
+01-09 13:21:34.123   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=8000019
+01-09 13:21:34.123   691  5855 I mm-camera: <CPP   >< INFO> 3660: cpp_module_util_update_dim: offset_x 0, offset_y 0, offset 0, meta_len 0,meta_scanline 0, meta_stride 0, plane_len 8146944
+01-09 13:21:34.123   691  5855 I mm-camera: <CPP   >< INFO> 3660: cpp_module_util_update_dim: offset_x 0, offset_y 0, offset 0, meta_len 0,meta_scanline 0, meta_stride 0, plane_len 4073472
+01-09 13:21:34.123   691  5855 I mm-camera: <CPP   >< INFO> 1032: cpp_module_handle_isp_out_dim_event: [STREAM_PARAMS]  stream type 9, width 3264, height 2448,stride 3264, scanline 2496, planes 2
+01-09 13:21:34.123   691  5855 I mm-camera: <PPROC >< INFO> 2025: pproc_module_handle_reprocess_online: input buf index 1 input stream id 3, frame id 574, identity 40005
+01-09 13:21:34.124  1135  5179 D NuPlayerDriver: seekTo(0xefec42a0) (0 ms, 0) at state 4
+01-09 13:21:34.124  1135  5179 D NuPlayerDriver: notifyListener_l(0xefec42a0), (7, 0, 0, -1), loop setting(0, 0)
+01-09 13:21:34.124  1135  5832 I GenericSource: start
+01-09 13:21:34.124   691  5868 I mm-camera: <CPP   >< INFO> 371: cpp_hardware_set_clock: Set clock 540000000 BW avg 618985088 BW inst 618985088
+01-09 13:21:34.126   691  5868 I mm-camera: <CPP   >< INFO> 371: cpp_hardware_set_clock: Set clock 540000000 BW avg 1481934592 BW inst 1481934592
+01-09 13:21:34.126   691  5852 D qomx_image_core: OMX_GetHandle:261] handle = 0xe6a6b404 Instanceindex = 1,comp_idx 2 g_ptr 0xe7393e00
+01-09 13:21:34.126   691  5852 I qomx_image_core: OMX_GetHandle:267] Success
+01-09 13:21:34.128  1135  5179 D NuPlayerDriver: start(0xefec42a0), state is 4, eos is 0
+01-09 13:21:34.128   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 579
+01-09 13:21:34.129  5800  5800 E CAM_PhotoModule: [KPI Perf] PROFILE_SHUTTER_LAG mShutterLag = 74ms
+01-09 13:21:34.148  1135  5832 W Utils   : track of type 'audio/vorbis' does not publish channel mask, channel count 1
+01-09 13:21:34.152   691  6106 I QCamera : <HAL><INFO> postproc_channel_cb_routine: 675: [KPI Perf]: frame_idx 574
+01-09 13:21:34.152  1135  5832 D NuPlayerDriver: notifyListener_l(0xefec42a0), (4, 0, 0, -1), loop setting(0, 0)
+01-09 13:21:34.159   689  4863 D msm8916_platform: platform_set_channel_map mixer_ctl_name:Playback Channel Map13
+01-09 13:21:34.160   689  4863 D msm8916_platform: platform_set_channel_map: set mapping(1 2 0 0 0 0 0 0) for channel:2
+01-09 13:21:34.161   689  4863 D audio_hw_primary: start_output_stream: exit
+01-09 13:21:34.161   689  1730 D audio_hw_spkr_prot: audio_extn_fbsp_get_parameters: Speaker protection disabled
+01-09 13:21:34.161   689  1730 D audio_hw_extn: audio_extn_get_parameters: returns 
+01-09 13:21:34.161  1113  1506 I hash_map_utils: key: 'is_hw_dec_session_available' value: 'audio/vorbis'
+01-09 13:21:34.169   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.172   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 580
+01-09 13:21:34.172  1135  5832 W Utils   : track of type 'audio/vorbis' does not publish channel mask, channel count 1
+01-09 13:21:34.174  2571  2584 D improveTouch: [EventMonitor:483] parseUEvent E offline@/devices/system/cpu/cpu4
+01-09 13:21:34.182   689  1730 D audio_hw_spkr_prot: audio_extn_fbsp_get_parameters: Speaker protection disabled
+01-09 13:21:34.183   689  1730 D audio_hw_extn: audio_extn_get_parameters: returns 
+01-09 13:21:34.183  1113  1506 I hash_map_utils: key: 'is_hw_dec_session_available' value: 'audio/vorbis'
+01-09 13:21:34.190  1135  6115 I OMXClient: Treble IOmx obtained
+01-09 13:21:34.191  1148  1403 I OMXMaster: makeComponentInstance(OMX.google.vorbis.decoder) in omx@1.0-service process
+01-09 13:21:34.195   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 581
+01-09 13:21:34.204  1148  1403 E OMXNodeInstance: setConfig(0xe8022300:google.vorbis.decoder, ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+01-09 13:21:34.204  1135  6115 I ACodec  : codec does not support config priority (err -2147483648)
+01-09 13:21:34.205  1148  1403 E OMXNodeInstance: setConfig(0xe8022300:google.vorbis.decoder, ConfigPriority(0x6f800002)) ERROR: Undefined(0x80001001)
+01-09 13:21:34.206  1135  6115 I ACodec  : codec does not support config priority (err -2147483648)
+01-09 13:21:34.207  1148  1403 E OMXNodeInstance: getConfig(0xe8022300:google.vorbis.decoder, ConfigAndroidVendorExtension(0x6f100004)) ERROR: Undefined(0x80001001)
+01-09 13:21:34.208  1135  6115 W ExtendedACodec: Failed to get extension for extradata parameter
+01-09 13:21:34.210  1135  6115 I MediaCodec: MediaCodec will operate in async mode
+01-09 13:21:34.215   688   688 W /system/bin/hw/android.hidl.allocator@1.0-service: ashmem_create_region(65307) returning hidl_memory(0x7efac2b460, 65307)
+01-09 13:21:34.218   688   688 I chatty  : uid=1000(system) allocator@1.0-s identical 2 lines
+01-09 13:21:34.219   688   688 W /system/bin/hw/android.hidl.allocator@1.0-service: ashmem_create_region(65307) returning hidl_memory(0x7efac2b460, 65307)
+01-09 13:21:34.223   688   688 W /system/bin/hw/android.hidl.allocator@1.0-service: ashmem_create_region(32768) returning hidl_memory(0x7efac2b460, 32768)
+01-09 13:21:34.224   688   688 I chatty  : uid=1000(system) allocator@1.0-s identical 2 lines
+01-09 13:21:34.225   688   688 W /system/bin/hw/android.hidl.allocator@1.0-service: ashmem_create_region(32768) returning hidl_memory(0x7efac2b460, 32768)
+01-09 13:21:34.230   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.234   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 582
+01-09 13:21:34.242  1135  6114 I ExtendedNuUtils: Both src and dst missing for bit-width
+01-09 13:21:34.242  1135  6114 I ExtendedNuUtils: Overriding durationUs: with 64 bit src value 418000
+01-09 13:21:34.242  1135  6114 I ExtendedNuUtils: Both src and dst missing for channel-mask
+01-09 13:21:34.243  1113  1506 I AudioPolicyManagerCustom: FLAG None hence request for a primary output
+01-09 13:21:34.244  1113  1506 I AudioPolicyManagerCustom: FLAG None hence request for a primary output
+01-09 13:21:34.245   689  1730 D compress_voip: voice_extn_compress_voip_out_get_parameters: enter
+01-09 13:21:34.250  1135  6113 D AudioTrack: Client defaulted notificationFrames to 12000 for frameCount 24000
+01-09 13:21:34.253  1135  5832 D NuPlayerDriver: notifyListener_l(0xefec42a0), (6, 0, 0, -1), loop setting(0, 0)
+01-09 13:21:34.267   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 583
+01-09 13:21:34.280  2571  2584 D improveTouch: [EventMonitor:483] parseUEvent E offline@/devices/system/cpu/cpu5
+01-09 13:21:34.289   691  5910 I QCamera : <HAL><INFO> encodeData: 2732: Thumbnail idx = 0 src w/h (3264x2448), dst w/h (320x240)
+01-09 13:21:34.289   691  5910 I QCamera : <HAL><INFO> encodeData: 2741: Main image idx = 0 src w/h (3264x2448), dst w/h (3264x2448) rot = 0
+01-09 13:21:34.290   691  5910 I QCamera : <HAL><INFO> encodeData: 2867: [KPI Perf] : PROFILE_JPEG_JOB_START
+01-09 13:21:34.290  5800  5800 V CAM_PhotoModule: mShutterToRawCallbackTime = 161ms
+01-09 13:21:34.291   691  6109 I mm-still: startEncode:636] Start Encode 1
+01-09 13:21:34.291   691  6109 I jpeg_hw : jpege_lib_hw_fe_buffer_cfg:305] w 3264 h 2448 stride 3264 scanline 2496
+01-09 13:21:34.302  1135  6114 I NuPlayerDecoder: [audio] saw output EOS
+01-09 13:21:34.303  1135  6113 D AudioTrack: stop() called with 20073 frames delivered
+01-09 13:21:34.304   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.307   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 584
+01-09 13:21:34.307   691  6119 I mm-camera: <IMGLIB>< INFO> 444: jpegdma_util_check_params: Src wxh 3264x2448 stxsl 3264x2496, Dest wxh 320x240 stxsl 320x240, Yuv fmt 2, Framerate 30, Crop lxt 0x0 wxh 3264x2448
+01-09 13:21:34.328   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 585
+01-09 13:21:34.329   691  6119 I jpeg_hw : jpege_lib_hw_fe_buffer_cfg:305] w 320 h 240 stride 320 scanline 240
+01-09 13:21:34.335   691  6118 E mm-still: DoCacheOps:354] failed with errno Invalid argument
+01-09 13:21:34.341   691  6118 E mm-still: DoCacheOps:277] failed with errno Invalid argument
+01-09 13:21:34.344   691  6122 I mm-camera: <IMGLIB>< INFO> 444: jpegdma_util_check_params: Src wxh 1024x608 stxsl 1024x608, Dest wxh 1024x608 stxsl 1024x608, Yuv fmt 105, Framerate 30, Crop lxt 0x0 wxh 0x0
+01-09 13:21:34.348   691  6109 I QCamera : <JPEG><INFO> mm_jpeg_fbd: 3573: count 0 
+01-09 13:21:34.348   691  6109 I QCamera : <JPEG><INFO> mm_jpeg_fbd: 3574: KPI Perf] : PROFILE_JPEG_FBD
+01-09 13:21:34.349   691  5850 I QCamera : <HAL><INFO> processJpegEvt: 1336: [KPI Perf]: PROFILE_JPEG_CB
+01-09 13:21:34.349   691  5882 I QCamera : <HAL><INFO> cbNotifyRoutine: 3627: Num Snapshots Received = 1 Expected = 1
+01-09 13:21:34.349   691  5882 I QCamera : <HAL><INFO> cbNotifyRoutine: 3630: Received all snapshots
+01-09 13:21:34.350   713   769 E ANDR-PERF-OPTSHANDLER: Write -1:-1 into /sys/module/msm_performance/parameters/max_cpus
+01-09 13:21:34.365   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.369   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 586
+01-09 13:21:34.373  2571  2584 D improveTouch: [EventMonitor:483] parseUEvent E offline@/devices/system/cpu/cpu6
+01-09 13:21:34.379   691  5910 V qomx_image_core: OMX_FreeHandle:338] 
+01-09 13:21:34.379   691  5910 D qomx_image_core: get_idx_from_handle:297] comp_idx 2 inst_idx 1
+01-09 13:21:34.381  2571  2584 D improveTouch: [EventMonitor:483] parseUEvent E online@/devices/system/cpu/cpu4
+01-09 13:21:34.381   691  5910 I qomx_image_core: OMX_FreeHandle:370] Error Component is still Active
+01-09 13:21:34.381   691  5910 V qomx_image_core: OMX_FreeHandle:373] Success
+01-09 13:21:34.382   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=8000009
+01-09 13:21:34.382   691  5855 I mm-camera: <MCT   >< INFO> 4247: mct_pipeline_process_set:  STREAM-OFF on stream 0x40005 stream type=9
+01-09 13:21:34.383   691  5855 I mm-camera: <CPP   >< INFO> 4687: cpp_module_handle_streamoff_event: info: doing stream-off for identity 0x40005
+01-09 13:21:34.383   691  5855 I mm-camera: <CPP   >< INFO> 4883: cpp_module_handle_streamoff_event: info: stream-off done for identity 0x40005 rc:0
+01-09 13:21:34.383   691  5855 I mm-camera: <MCT   >< INFO> 4262: mct_pipeline_process_set:  STREAM-OFF success for stream 0x40005, stream type=9
+01-09 13:21:34.384   691  5868 I mm-camera: <CPP   >< INFO> 371: cpp_hardware_set_clock: Set clock 256000000 BW avg 241444800 BW inst 241444800
+01-09 13:21:34.389  2571  2584 D improveTouch: [EventMonitor:483] parseUEvent E online@/devices/system/cpu/cpu5
+01-09 13:21:34.393   691  5855 I mm-camera: <MCT   >< INFO> 4108: mct_pipeline_process_set: command=800000b
+01-09 13:21:34.394   691  5855 I mm-camera: <MCT   >< INFO> 4327: mct_pipeline_process_set: Issuing DEL_STREAM on stream 0x40005 and stream type=9
+01-09 13:21:34.394   691  5855 I mm-camera: <MCT   >< INFO> 4350: mct_pipeline_process_set: Stream 0x40005 and stream type=9, successfully deleted
+01-09 13:21:34.396  2571  2584 D improveTouch: [EventMonitor:483] parseUEvent E online@/devices/system/cpu/cpu6
+01-09 13:21:34.399   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 587
+01-09 13:21:34.402  5800  5800 V CAM_PhotoModule: JpegPictureCallback : in zslmode
+01-09 13:21:34.403  5800  5800 V CAM_PhotoModule: JpegPictureCallback: Received = 1Burst count = 1
+01-09 13:21:34.404  5800  5800 V CAM_PhotoModule: mPictureDisplayedToJpegCallbackTime = 112ms
+01-09 13:21:34.405  5800  5800 D CAM_PhotoModule: capture:IMG_20200109_132134.jpeg
+01-09 13:21:34.405  5800  5800 V CAM_PhotoModule: mJpegCallbackFinishTime = 3ms
+01-09 13:21:34.406  5800  5800 V CAM_PhotoModule: old picture_size = 3264 x 2448
+01-09 13:21:34.406  5800  5800 V CAM_PhotoModule: new picture_size = 3264 x 2448
+01-09 13:21:34.408  5800  5800 D CAM_PhotoModule: updateCameraParametersPreference final preview size = 1440, 1080
+01-09 13:21:34.408  5800  5800 V CAM_PhotoModule: Preview size is 1440x1080
+01-09 13:21:34.408  5800  5800 V CAM_PhotoModule: Thumbnail size is 320x240
+01-09 13:21:34.408  5800  5800 V CAM_PhotoModule: updateCameraParametersPreference(): TSMakeup tsmakeup value = Off
+01-09 13:21:34.408  5800  5800 V CAM_PhotoModule: Picture format value =jpeg
+01-09 13:21:34.409  5800  5800 V CAM_PhotoModule: Color effect value =none
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: Saturation value =5
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: Contrast value =5
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: Sharpness value =12
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: Face Recognition value = off
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: AE Bracketing value =Off
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: HDR Mode value =hdr-mode-multiframe
+01-09 13:21:34.410  5800  5800 V CAM_PhotoModule: HDR need 1x value =true
+01-09 13:21:34.410  5800  5800 E CAM_PhotoModule:  advancedFeature value =none
+01-09 13:21:34.414  5800  5800 V CAM_PhotoModule: autoExposure value =frame-average
+01-09 13:21:34.414  5800  5800 V CAM_PhotoModule: antiBanding value =off
+01-09 13:21:34.415  5800  5800 V CAM_PhotoModule: Instant capture = 0, mInstantCaptureSnapShot = false
+01-09 13:21:34.415  5800  5800 V CAM_PhotoModule: Bokeh Mode = 0 bokehMpo = 0 bokehBlurDegree = 50
+01-09 13:21:34.420  5800  5831 D CameraStorage: External storage state=mounted
+01-09 13:21:34.424  5800  5831 D CameraStorage: External storage state=mounted
+01-09 13:21:34.431   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 588
+01-09 13:21:34.436   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.440  5800  5800 D CameraStorage: External storage state=mounted
+01-09 13:21:34.461   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 589
+01-09 13:21:34.495   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 590
+01-09 13:21:34.496   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.528   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 591
+01-09 13:21:34.535   837   857 E libnav  : CablComputeBacklightLevel(): UpdateType = DifferentSceneUpdate
+01-09 13:21:34.561   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 592
+01-09 13:21:34.566   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.595   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 593
+01-09 13:21:34.632   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.632   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 594
+01-09 13:21:34.662   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 595
+01-09 13:21:34.695   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 596
+01-09 13:21:34.697   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.717  1135  5832 D NuPlayerDriver: notifyListener_l(0xefec42a0), (2, 0, 0, -1), loop setting(0, 0)
+01-09 13:21:34.728   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 597
+01-09 13:21:34.741   710  2334 I LocSvc_ApiV02: <--- globalEventCb line 115 QMI_LOC_EVENT_POSITION_REPORT_IND_V02
+01-09 13:21:34.763   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 598
+01-09 13:21:34.770   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.796   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 599
+01-09 13:21:34.828   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 600
+01-09 13:21:34.838   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.863   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 601
+01-09 13:21:34.896   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.899   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 602
+01-09 13:21:34.929   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 603
+01-09 13:21:34.962   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 604
+01-09 13:21:34.964   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:34.996   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 605
+01-09 13:21:35.029   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 606
+01-09 13:21:35.031   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.066   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 607
+01-09 13:21:35.097   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 608
+01-09 13:21:35.098   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.129   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 609
+01-09 13:21:35.164   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 610
+01-09 13:21:35.174   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.196   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 611
+01-09 13:21:35.230   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 612
+01-09 13:21:35.236   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.264   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 613
+01-09 13:21:35.301   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 614
+01-09 13:21:35.302   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.330   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 615
+01-09 13:21:35.364   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.365   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 616
+01-09 13:21:35.396   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 617
+01-09 13:21:35.428   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 618
+01-09 13:21:35.436   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.463   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 619
+01-09 13:21:35.495   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 620
+01-09 13:21:35.501   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.528   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 621
+01-09 13:21:35.565   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 622
+01-09 13:21:35.566   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.594   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 623
+01-09 13:21:35.629   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 624
+01-09 13:21:35.637   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.661   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 625
+01-09 13:21:35.695   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 626
+01-09 13:21:35.704   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.733   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 627
+01-09 13:21:35.741   710  2334 I LocSvc_ApiV02: <--- globalEventCb line 115 QMI_LOC_EVENT_POSITION_REPORT_IND_V02
+01-09 13:21:35.765   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 628
+01-09 13:21:35.778   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.797   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 629
+01-09 13:21:35.832   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.833   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 630
+01-09 13:21:35.861   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 631
+01-09 13:21:35.895   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 632
+01-09 13:21:35.900   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000
+01-09 13:21:35.929   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 633
+01-09 13:21:35.960   691  5856 I mm-camera: <MCT   >< INFO> 1302: mct_controller_handle_SOF_proc: (sofdelay, curr_sofdelay) = (0, 0) kptr 634
+01-09 13:21:35.966   691  5863 E mm-camera: <ISP   ><ERROR> 172: sce40_select_table: aec_ratio 1.000000

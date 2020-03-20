@@ -1,0 +1,17 @@
+*** Variables ***
+${wifiEnable_Loc}               id=com.android.settings:id/switchWidget
+${title_Loc}                    id=android:id/title
+${contact_title_Loc}            id=com.android.contacts:id/cliv_name_textview
+${networkText_Loc}              Network & Internet
+${system_Loc}                   System
+${contact_Loc}                  Agr Asawari
+${battery_Loc}                  Battery
+${androidsubMenu_Index}         82
+${serachId_Loc}                 id=com.android.settings:id/search_action_bar
+${connectedDevices_Loc}         Connected devices
+${btEnable_Loc}                 id=com.android.settings:id/switchWidget
+${bluetooth_Loc}                Bluetooth
+${pairNewDev_Loc}               Pair new device
+${allow_Loc}                    id=com.android.settings:id/phonebook_sharing_message_confirm_pin
+${pair_Loc}                     Pair
+${okButton_Loc}                 OK

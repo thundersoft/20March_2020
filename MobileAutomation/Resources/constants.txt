@@ -1,0 +1,19 @@
+#*** Settings ***
+#Resource  ../__init.txt
+*** Variables ***
+#Appium Properties
+${appiumServer}                 http://localhost:4723/wd/hub
+${startAppium}                  start "AppiumServer" appium --port 4723
+${stopAppium}                   taskkill /F /IM node.exe & taskkill /fi "WindowTitle eq Administrator: AppiumServer"
+${LANGUAGE}
+${platformName}                 Android
+${platformVersion}              8.1.0
+${deviceName}                   AndroidDevice
+${automationName}               UiAutomator2
+${clearBufLogCmd}               adb logcat -c
+${captureLogCmd}                adb logcat -d *:I >
+${adbUninstall}                 adb uninstall
+${adbScreenRecord}              adb shell screenrecord  /mnt/sdcard
+${adbKill}                      taskkill /F /IM adb.exe
+${adbPull}                      adb pull /mnt/sdcard/
+${adbRemove}                    adb shell rm /mnt/sdcard/

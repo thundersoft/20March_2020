@@ -1,0 +1,6 @@
+*** Variables ***
+${familyText}       FAMILLE
+${fruitsText}       FRUITS
+${fatherText}       PERE
+${motherText}       MERE
+${lang}             French

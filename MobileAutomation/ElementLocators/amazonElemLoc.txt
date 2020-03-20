@@ -1,0 +1,36 @@
+*** Variables ***
+#HomePage
+${usernameLoc}                  id=ap_email_login
+${pwdLoc}                       id=ap_password
+${loginLoc}                     id=signInSubmit
+${skipSigninLoc}                id=in.amazon.mShop.android.shopping:id/skip_sign_in_button
+${logincontinueLoc}             id=in.amazon.mShop.android.shopping:id/sso_continue
+${menuIconLoc}                  id=in.amazon.mShop.android.shopping:id/action_bar_burger_icon
+${searchLoc}                    id=in.amazon.mShop.android.shopping:id/rs_search_src_text
+${cartImgLoc}                   id=in.amazon.mShop.android.shopping:id/action_bar_cart_image
+${searchTextLoc}                id=in.amazon.mShop.android.shopping:id/rs_search_src_text
+${useMyCurLoc}                  id=in.amazon.mShop.android.shopping:id/loc_ux_gps_auto_detect
+${allowPopUpLoc}                id=com.android.packageinstaller:id/permission_allow_button
+${menuTextLoc}                  xpath=//android.widget.ListView[@resource-id='in.amazon.mShop.android.shopping:id/gno_drawer_list']/android.widget.LinearLayout//android.widget.TextView
+#${menuTextLoc}                  xpath=//android.widget.TextView[@resource-id='in.amazon.mShop.android.shopping:id/drawer_item_title']
+${menuLastItemLoc}              xpath=//android.widget.LinearLayout[@resource-id='in.amazon.mShop.android.shopping:id/anp_drawer_item'][8]//android.widget.TextView
+${selectItemLoc}                xpath=//android.view.View[@resource-id='search']//android.view.View[6]
+${scrollToBuyLoc}               id=sopp-bottom-sheet-open
+${addToCartLoc}                 Add to Cart
+${buyNowLoc}                    id=buyNowCheckout
+${loginTextLoc}                 id=ap_email_login
+${continueLoc}                  id=continue
+${proceedToBuyLoc}              Proceed to Buy
+${deliverAddressLoc}            Deliver to this address
+${continueButtonLoc}            Continue
+${enterCVVLoc}                  xpath=//android.widget.EditText
+${quantityLoc}                  id=a-autoid-1
+${deleteLoc}                    name=Delete
+${saveForLaterLoc}              name=Save for later
+${giftLoc}                      name=This order contains a gift
+${scrollFrom}                   namAmazon Brand - Solimo SwiftTransfer 32GB USB 3.0 OTG Pendrive
+${scrollTo}                     name=FREE Delivery
+${buttonClassname}              android.widget.Button
+${priceofItemLoc}               id=atfRedesign_priceblock_priceToPay
+${itemLoadLoc}                  id=bylineInfo
+${itemImageLoc}                 id=gwm-SignIn-button

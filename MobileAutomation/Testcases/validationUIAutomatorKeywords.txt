@@ -1,0 +1,12 @@
+*** Settings ***
+Resource    ../Keywords/uiAutomatorTSKeywords.txt
+
+*** Test Cases ***
+validate UIAutomator
+    create UIAutomatorObject
+    do scroll up
+    scroll And Click  YouTube
+#    click using Text Element  Gmail
+#    open Application  'com.android.contacts'   'com.android.contacts.activities.PeopleActivity'
+    close recent applications
+

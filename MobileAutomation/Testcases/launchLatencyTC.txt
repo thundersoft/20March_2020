@@ -1,0 +1,59 @@
+*** Settings ***
+
+Resource  ../Keywords/launchLatencyKeywords.txt
+Library    Collections
+
+*** Test Cases ***
+
+
+
+perform Launch Latency
+    [Documentation]  we must pass package Name ,activityName , iterations and expected avg launch time of an application to launch app keyword
+    run keyword and continue on failure  launch app  com.android.contacts  com.android.contacts.activities.PeopleActivity  3  450
+    run keyword and continue on failure  launch app  com.android.settings  com.android.settings.Settings  3  500
+    run keyword and continue on failure  launch app  com.google.android.gm  com.google.android.gm.ConversationListActivityGmail  3  200
+    destroy device instance
+
+
+
+#    create UIAutomatorObject
+#    ${resultData} =  create dictionary
+#    set suite variable  ${resultData}
+#    @{contactAppData} =  create list
+#    @{settingsAppData} =  create list
+#    @{gmailAppData} =  create list
+#    ${iterations} =   set variable  3
+#    : FOR    ${INDEX}    IN RANGE    ${iterations}
+#       \  ${launchtime} =  launch contacts  com.android.contacts  com.android.contacts.activities.PeopleActivity
+#       \  Sleep  1s
+#       \  ${launchtime} =  convert to integer  ${launchtime}
+#       \  Log  launch value is ${launchtime}
+#       \  append to list  ${contactAppData}  ${launchtime}
+#       \  input Keyevent   3
+#       \  ${launchtime} =  launch settings  com.android.settings  com.android.settings.Settings
+#       \  Sleep  1s
+#       \  ${launchtime} =  convert to integer  ${launchtime}
+#       \  Log  launch value is ${launchtime}
+#       \  append to list  ${settingsAppData}  ${launchtime}
+#       \  input Keyevent   3
+#       \  ${launchtime} =  launch gmail  com.google.android.gm  com.google.android.gm.ConversationListActivityGmail
+#       \  Sleep  1s
+#       \  ${launchtime} =  convert to integer  ${launchtime}
+#       \  Log  launch value is ${launchtime}
+#       \  append to list  ${gmailAppData}  ${launchtime}
+#       \  input Keyevent   3
+#       \  close recent applications
+#       \  reboot
+#       \  Sleep  60s
+#    set to dictionary  ${resultData}  contacts=@{contactAppData}  settings=@{settingsAppData}  gmail=@{gmailAppData}
+#
+#    log many  ${resultData}
+#
+#validate Contacts launchTime
+#    validate application launch time  ${resultData}   140  contacts
+#
+#validate Settings launchTime
+#    validate application launch time  ${resultData}   120  settings
+#
+#validate gmail launchTime
+#    validate application launch time  ${resultData}   160  gmail

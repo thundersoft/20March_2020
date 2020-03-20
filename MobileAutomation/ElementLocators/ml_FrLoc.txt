@@ -1,0 +1,6 @@
+*** Variables ***
+${selLang_RBLoc}     com.example.ml:id/radioFrench
+${family_BtnLoc}     com.example.ml:id/french_family
+${fruits_BtnLoc}     com.example.ml:id/french_fruit
+${father_BtnLoc}     com.example.ml:id/french_father
+${mother_BtnLoc}     com.example.ml:id/french_mother

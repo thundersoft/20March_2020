@@ -1,0 +1,24 @@
+*** Settings ***
+Resource    ../Keywords/amazonKeywords.txt
+
+Suite Setup    Run keywords     Start Appium Server     Create a Directory for Videos     Create a Directory for Logs
+Suite Teardown  Run keyword     Stop Appium Server
+Test Setup     Run keywords     Clear Log Buffer    Start Video recording    Launch Amazon Application
+Test Teardown  Run keywords     Capture Logs    Stop Video recording     Close the Application
+
+
+*** Test Cases ***
+#Verify Amazon Menu
+#    Launch Amazon Application
+#    Skip Sign In
+#    Verify Amazon Menu List
+
+Purchase_Product
+#    addItemToCart
+#    Launch Amazon Application
+    Click on continue
+#    Skip Sign In
+    Language Selection
+    Search an Item  ${penDrive}
+    Select an Item and Add to Cart  ${penDrive}
+    Proceed to Buy and Checkout

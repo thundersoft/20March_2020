@@ -1,0 +1,15 @@
+*** Variables ***
+${appPackage}                   com.android.settings
+${appActivity}                  com.android.settings.Settings
+${networkIndex}                 1
+${wifioffLog}                   |CORE| Updating network info: [type: WIFI[]
+${wifioffStatus}                DISCONNECTED
+${conappPackage}                com.android.contacts
+${conappActivity}               com.android.contacts.activities.PeopleActivity
+@{expValues}                    Battery optimisation    Show full device usage
+@{actualList}
+${adbDevicesCmd}                adb devices
+${expDeviceId}                  ZY322F5FT2
+${btExtDev}                     HBS-730
+${btConnectedMsg}               Connected, battery
+${btDisConnectMsg}              disconnect from HBS-730

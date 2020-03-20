@@ -1,0 +1,7 @@
+LAUNCH_RESOURCE_ID: org.codeaurora.snapcam:id/scene_mode_switcher
+CLOSE_RESOURCE_ID: com.android.launcher3:id/workspace
+LAUNCH_CLOSE_ITERATIONS: 2
+APP_PACKAGE_NAME: org.codeaurora.snapcam
+APP_ACTIVITY_NAME: com.android.camera.CameraLauncher
+LAUNCH_CLOSE_ITERATIONS_TIME_MIN: 2
+RESTART_ITERATIONS: 5

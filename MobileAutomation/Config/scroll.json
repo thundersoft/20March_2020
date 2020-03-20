@@ -1,0 +1,27 @@
+{
+   "iterations": 10,
+   "applications" : [
+     {
+       "active": false,
+       "appName": "AppList",
+       "packageName": "com.android.contacts",
+       "activityName": "com.android.contacts.activities.PeopleActivity",
+       "dummyScrollCount": 1
+     },
+     {
+       "active": true,
+       "appName": "Settings",
+        "packageName": "com.android.settings",
+       "activityName": "com.android.settings.Settings",
+       "dummyScrollCount": 1
+
+     },
+     {
+       "active": true,
+       "appName": "YouTube",
+        "packageName": "com.google.android.youtube",
+       "activityName": "com.google.android.apps.youtube.app.WatchWhileActivity",
+       "dummyScrollCount": 10
+     }
+   ]
+}

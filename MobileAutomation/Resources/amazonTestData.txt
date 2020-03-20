@@ -1,0 +1,12 @@
+*** Variables ***
+${appPackage}                   in.amazon.mShop.android.shopping
+${appActivity}                  com.amazon.mShop.splashscreen.StartupActivity
+${penDrive}                     Two States Book
+${penDriveExp}                  Pendrive
+${mobileNumber}                 7989868925
+${pwd}                          123456
+@{expMenuList}                  Shop by\nCategory    Hello. Sign In    Home    Shop by Category    Today's Deals    Your Orders    Buy Again    Your Wish List    Your Account    Amazon Pay    Try Prime   Sell on Amazon   Programs and Features   Language A/क    Your Notifications   Settings   Customer Service
+@{exp1MenuList}                 Home    Shop by Category    Today's Deals    Your Orders    Buy Again    Your Wish List    Your Account    Amazon Pay    Try Prime   Sell on Amazon   Programs and Features   Language A/क    Your Notifications   Settings   Customer Service
+@{actList}
+${buyNow}                       Buy Now
+${addToCart}                    Add to Cart
