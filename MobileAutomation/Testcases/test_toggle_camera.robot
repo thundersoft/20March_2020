@@ -1,5 +1,6 @@
 *** Settings ***
-Resource     ${EXEC_DIR}/Keywords/toggleCameraKeywords.robot
+Resource     ../Keywords/toggleCameraKeywords.robot
+Library    ../Lib/uiAutomatorLib.py
 
 *** Variables ***
 ${iter}    100
@@ -8,7 +9,7 @@ ${iter}    100
 toggle: It verifies the Toggling of Camera
     [Tags]    Toggle
     VERIFY LAUNCH CAMERA APP
-    getDeviceInstance
+    getDeviceInstance    ${TEST_DEVICE_ID}
     Start LOGCAT
     CAMERATOGGLE    ${iter}
     ${res}    GETLOG

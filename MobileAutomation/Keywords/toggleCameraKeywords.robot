@@ -1,5 +1,5 @@
 *** Settings ***
-Library     ${EXEC_DIR}/Lib/CameraToggle.py
+Library     ../Lib/CameraToggle.py
 Library      uiautomatorlibrary
 
 *** Keywords ***

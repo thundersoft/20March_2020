@@ -53,12 +53,12 @@ VERIFY LANCH AND CLOSE APPLICATION IN ITERATIONS
     ...  ELSE  Fail   Launch and close operations is not able to verified in above loops...!!
 
 VERIFY LANCH AND CLOSE APPLICATION USING TIME
-    [Arguments]    ${time}
+    [Arguments]    ${time}   ${TEST_DEVICE_ID}
     ${get_current_time}    Get Current Date
     Log to Console     ${get_current_time}
     :For   ${index}   IN RANGE   9999999
     \    Log to Console   Launching the application in loop:${index+1}
-    \    LAUNCH APPLICATION      ${APP_ACTIVITY_NAME}     ${APP_PACKAGE_NAME}
+    \    LAUNCH APPLICATION      ${APP_PACKAGE_NAME}   ${APP_ACTIVITY_NAME}     ${TEST_DEVICE_ID}
     \    Log to Console   Verifying whether the application is launched or not in loop:${index+1}
     \    ${launch_res}    VERIFY LAUNCH APPLICATION    ${LAUNCH_RESOURCE_ID}
     \    Run Keyword If   ${launch_res}==True    Log to Console   Application is launched sucessfully in loop:${index+1}

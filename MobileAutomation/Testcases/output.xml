@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.6.0 on win32)" generated="20201127 18:04:04.920" rpa="false">
+<suite id="s1" name="Test Toggle Camera" source="C:\Users\ravichand\AutomationProjects\20March_2020\MobileAutomation\Testcases\test_toggle_camera.robot">
+<test id="s1-t1" name="toggle: It verifies the Toggling of Camera">
+<kw name="Start LOGCAT" library="toggleCameraKeywords">
+<kw name="Start Collect Logcat" library="CameraToggle">
+<arguments>
+<arg>${EXEC_DIR}/logs/Camera_log.txt</arg>
+</arguments>
+<assign>
+<var>${log_cat}</var>
+</assign>
+<msg timestamp="20201127 18:04:05.383" level="INFO">Exception occured while collecting logcat
+&lt;method-wrapper '__str__' of FileNotFoundError object at 0x0000021541CC19D8&gt;</msg>
+<msg timestamp="20201127 18:04:05.384" level="INFO">${log_cat} = None</msg>
+<status status="PASS" starttime="20201127 18:04:05.251" endtime="20201127 18:04:05.384"></status>
+</kw>
+<status status="PASS" starttime="20201127 18:04:05.251" endtime="20201127 18:04:05.384"></status>
+</kw>
+<kw name="GETLOG" library="toggleCameraKeywords">
+<assign>
+<var>${res}</var>
+</assign>
+<kw name="Parse Log" library="CameraToggle">
+<arguments>
+<arg>${EXEC_DIR}/logs/Camera_log.txt</arg>
+</arguments>
+<assign>
+<var>${get_log}</var>
+</assign>
+<msg timestamp="20201127 18:04:05.387" level="INFO">Exception occured while parsing log file
+[Errno 2] No such file or directory: 'C:\\Users\\ravichand\\AutomationProjects\\20March_2020\\MobileAutomation\\Testcases/logs/Camera_log.txt'</msg>
+<msg timestamp="20201127 18:04:05.388" level="INFO">${get_log} = None</msg>
+<status status="PASS" starttime="20201127 18:04:05.386" endtime="20201127 18:04:05.388"></status>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>${get_log}</arg>
+</arguments>
+<status status="PASS" starttime="20201127 18:04:05.388" endtime="20201127 18:04:05.389"></status>
+</kw>
+<msg timestamp="20201127 18:04:05.390" level="INFO">${res} = None</msg>
+<status status="PASS" starttime="20201127 18:04:05.385" endtime="20201127 18:04:05.390"></status>
+</kw>
+<kw name="VERIFY FRONT IMAGE CAPTURE" library="toggleCameraKeywords">
+<arguments>
+<arg>${iter}</arg>
+<arg>${res}</arg>
+</arguments>
+<kw name="Log To Console" library="BuiltIn">
+<doc>Logs the given message to the console.</doc>
+<arguments>
+<arg>Verifying the image is captured sucessfully or not in front camera...!!</arg>
+</arguments>
+<status status="PASS" starttime="20201127 18:04:05.392" endtime="20201127 18:04:05.393"></status>
+</kw>
+<kw name="Front Image Validations" library="CameraToggle">
+<arguments>
+<arg>${iter}</arg>
+<arg>${result}</arg>
+</arguments>
+<assign>
+<var>${front_image_validations}</var>
+</assign>
+<msg timestamp="20201127 18:04:05.396" level="FAIL">TypeError: 'NoneType' object is not iterable</msg>
+<status status="FAIL" starttime="20201127 18:04:05.393" endtime="20201127 18:04:05.396"></status>
+</kw>
+<status status="FAIL" starttime="20201127 18:04:05.391" endtime="20201127 18:04:05.396"></status>
+</kw>
+<tags>
+<tag>Toggle</tag>
+</tags>
+<status status="FAIL" starttime="20201127 18:04:05.251" endtime="20201127 18:04:05.397" critical="yes">TypeError: 'NoneType' object is not iterable</status>
+</test>
+<status status="FAIL" starttime="20201127 18:04:04.921" endtime="20201127 18:04:05.400"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+<stat pass="0" fail="1">Toggle</stat>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Test Toggle Camera">Test Toggle Camera</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

@@ -1,7 +1,7 @@
 *** Settings ***
-Resource     ${EXEC_DIR}/Keywords/Generic_Keywords.robot
-Variables    ${EXEC_DIR}/Variables/Config.yaml
-Variables    ${EXEC_DIR}/Variables/Device_config.yaml
+Resource     ../Keywords/Generic_Keywords.robot
+Variables    ../Variables/Config.yaml
+Variables    ../Variables/Device_config.yaml
 *** Test Cases ***
 test_restart_iterations: Restart verification
     [Tags]    Camera
